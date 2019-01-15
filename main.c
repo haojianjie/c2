@@ -12,6 +12,14 @@ int main(){
         printf("qingshurugongnengbianhao\n");
         scanf("%d",&a);
 if(a==1){
+    int cun;
+    printf("jinrucunqianxitong,qingshuruyaocunrudejine\n");
+    scanf("%d",&cun);
+    qian+=cun;
+    printf("cunruchenggong,dianjihuichejixu\n");
+    char x;
+    scanf("%c",&x);
+    scanf("%c",&x);
 
 }
 if(a==2){
